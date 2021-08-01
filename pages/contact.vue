@@ -1,9 +1,9 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
+      title="Kontakt oss"
+      subtitle="Vi er alltid der for deg"
+      image="assets/uploads/p_20210726_183752.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -11,16 +11,16 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Heisann!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                Hvordan kan jeg hjelpe deg?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/p_20210726_153842.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/p_20210726_153842.jpg').srcSet
                   "
                 />
               </figure>
