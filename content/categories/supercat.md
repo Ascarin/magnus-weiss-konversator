@@ -1,5 +1,5 @@
 ---
-name: Supercat
-image: /uploads/cat-1045782_1920.jpg
-description: Hei Magnus :D
+name: Orgel
+image: /uploads/kai-karl-lvxdvgmd3wu-unsplash.jpg
+description: Orgeler er fantastiske ting!
 ---
